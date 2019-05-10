@@ -1775,7 +1775,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/o-bar-88-novo-1-2000x1333.png");
+  background-image: url("../../../assets/images/mais-que-um-bar-2000x1325.png");
 }
 .cid-rpydtrQl0z {
   padding-top: 90px;
@@ -1794,7 +1794,7 @@ body {
   color: #ffffff;
 }
 .cid-rpyzFmx1Fi {
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 60px;
   background-color: #c7a00d;
 }
@@ -1820,7 +1820,7 @@ body {
 }
 .cid-rpyzFmx1Fi .card-wrapper {
   height: 100%;
-  background: #232323;
+  background: #4f4943;
 }
 @media (max-width: 767px) {
   .cid-rpyzFmx1Fi .card:not(.last-child) {
@@ -1846,6 +1846,9 @@ body {
 .cid-rpyzFmx1Fi .mbr-text,
 .cid-rpyzFmx1Fi .mbr-section-btn I {
   color: #efefef;
+}
+.cid-rpyzFmx1Fi B {
+  color: #ffffff;
 }
 .cid-rpyxKfGpbT {
   padding-top: 60px;
@@ -2109,7 +2112,7 @@ body {
   background: transparent !important;
 }
 .cid-rpyxKfGpbT .image_wrapper {
-  height: 700px;
+  height: 580px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -2225,7 +2228,7 @@ body {
 }
 .cid-rpytyCkc4y .mbr-iconfont-social {
   font-size: 32px;
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-rpytyCkc4y .social-list a:focus {
   text-decoration: none;
